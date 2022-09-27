@@ -7,7 +7,7 @@ Mapping scss to css styles is done by entering a command in the terminal
 ```
 
 ## SASS Architecture
-
+```
 sass/
 |
 |– abstracts/
@@ -48,3 +48,4 @@ sass/
 |   …                     # Etc.
 |
 `– main.scss              # Main Sass file
+```
