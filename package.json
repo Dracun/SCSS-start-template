@@ -1,0 +1,24 @@
+{
+  "name": "scss-start-template",
+  "version": "1.0.0",
+  "description": "Orderly structure with scss to css mapping",
+  "main": "index.js",
+  "dependencies": {
+    "sass": "^1.55.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch:sass": "sass  --no-source-map --watch scss:dist/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dracun/SCSS-start-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dracun/SCSS-start-template/issues"
+  },
+  "homepage": "https://github.com/Dracun/SCSS-start-template#readme"
+}
